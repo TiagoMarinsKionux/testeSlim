@@ -1,0 +1,12 @@
+{
+    "name": "teste/slim",
+    "authors": [
+        {
+            "name": "MarinsTiago",
+            "email": "marins@corp.kionux.com.br"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
