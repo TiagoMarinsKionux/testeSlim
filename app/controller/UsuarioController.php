@@ -1,10 +1,7 @@
 <?php
 
 namespace App\controller;
-use App\model\Usuario;
-// use Slim\Http\Request;
-// use Slim\Psr7\Response;
-// use \App\Util;
+use App\model\Usuario; 
 
 class UsuarioControl extends Control{
         
@@ -32,5 +29,4 @@ class UsuarioControl extends Control{
     
             }
         }
-
     }
