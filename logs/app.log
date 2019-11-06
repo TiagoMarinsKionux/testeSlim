@@ -1,0 +1,3 @@
+[2019-11-06 15:09:44] testeAPI.INFO: Cliente adicionado. IP: ::1 [] []
+[2019-11-06 15:20:24] testeAPI.INFO: Cliente adicionado. IP: ::1 [] []
+[2019-11-06 15:20:47] testeAPI.ERROR: Erro na inserção do usuário, ERRO: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'nome' cannot be null [] []
